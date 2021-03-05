@@ -5,5 +5,11 @@
         "**/.hg": false,
         "**/.svn": false,
         "**/CVS": false
-    }
+    },
+    "workbench.preferredHighContrastColorTheme": "Abyss",
+    "workbench.preferredDarkColorTheme": "Monokai Dimmed",
+    "workbench.startupEditor": "none",
+    "window.autoDetectColorScheme": true,
+    "workbench.colorTheme": "Spirited Away",
+    "workbench.preferredLightColorTheme": "Community Material Theme"
 }
